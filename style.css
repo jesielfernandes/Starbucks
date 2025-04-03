@@ -81,7 +81,7 @@ p {
 }
 
 .starBucksimg:hover {
-    transform: translatey(-35px);
+    transform: translate(-35px);
 }
 
 .circulo {
