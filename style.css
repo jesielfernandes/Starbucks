@@ -91,5 +91,5 @@ p {
     position: absolute;
     top: 0;
     left: 0;
-    clip-path: circle(600px at right 900px);
+    clip-path: circle(900px at right 900px);
 }
